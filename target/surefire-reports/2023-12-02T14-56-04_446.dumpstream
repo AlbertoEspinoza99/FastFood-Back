@@ -1,0 +1,5 @@
+# Created at 2023-12-02T14:56:04.685
+Boot Manifest-JAR contains absolute paths in classpath 'A:\CIBERTEC CICLO 06\ZZ-PROYECTO MONEY\fastfoodback\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
